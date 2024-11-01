@@ -1,2 +1,2 @@
 # Flopkart
-Sample Ecomerce
+Sample Ecommerce
